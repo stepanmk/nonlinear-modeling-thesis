@@ -1,1 +1,2 @@
-# nonlinear-modeling-thesis
+# Nonlinear Audio Effects Modeling Using Neural Networks
+ 
